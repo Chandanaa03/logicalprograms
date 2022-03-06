@@ -6,11 +6,11 @@ namespace logicalprograms
     {
         static void Main(string[] args)
         {
-             fibonacci.fibonaacciseries();
+            // fibonacci.fibonaacciseries();
             //couponnumber.coupon_number();
            // primenumber.prime_number();
            //reversenumber.reverse_number();
-            //perfectnumber.checkperfectnumber();
+            perfectnumber.checkperfectnumber();
         }
     }
 }
