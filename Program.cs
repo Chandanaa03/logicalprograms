@@ -8,9 +8,9 @@ namespace logicalprograms
         {
             // fibonacci.fibonaacciseries();
             //couponnumber.coupon_number();
-           // primenumber.prime_number();
+            primenumber.prime_number();
            //reversenumber.reverse_number();
-            perfectnumber.checkperfectnumber();
+            //perfectnumber.checkperfectnumber();
         }
     }
 }
